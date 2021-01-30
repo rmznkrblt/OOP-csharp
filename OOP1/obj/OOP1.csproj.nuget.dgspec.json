@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ramazan\\source\\repos\\OOP-csharp\\OOP-csharp\\OOP-csharp.csproj": {}
+    "G:\\Project\\c# project\\GitHub\\OOP-csharp\\OOP1\\OOP1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ramazan\\source\\repos\\OOP-csharp\\OOP-csharp\\OOP-csharp.csproj": {
+    "G:\\Project\\c# project\\GitHub\\OOP-csharp\\OOP1\\OOP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ramazan\\source\\repos\\OOP-csharp\\OOP-csharp\\OOP-csharp.csproj",
-        "projectName": "OOP-csharp",
-        "projectPath": "C:\\Users\\Ramazan\\source\\repos\\OOP-csharp\\OOP-csharp\\OOP-csharp.csproj",
+        "projectUniqueName": "G:\\Project\\c# project\\GitHub\\OOP-csharp\\OOP1\\OOP1.csproj",
+        "projectName": "OOP1",
+        "projectPath": "G:\\Project\\c# project\\GitHub\\OOP-csharp\\OOP1\\OOP1.csproj",
         "packagesPath": "C:\\Users\\Ramazan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ramazan\\source\\repos\\OOP-csharp\\OOP-csharp\\obj\\",
+        "outputPath": "G:\\Project\\c# project\\GitHub\\OOP-csharp\\OOP1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
