@@ -1,0 +1,13 @@
+G:\Project\c# project\GitHub\OOP-csharp\OOP3\bin\Debug\netcoreapp3.1\OOP3.exe
+G:\Project\c# project\GitHub\OOP-csharp\OOP3\bin\Debug\netcoreapp3.1\OOP3.deps.json
+G:\Project\c# project\GitHub\OOP-csharp\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.json
+G:\Project\c# project\GitHub\OOP-csharp\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.dev.json
+G:\Project\c# project\GitHub\OOP-csharp\OOP3\bin\Debug\netcoreapp3.1\OOP3.dll
+G:\Project\c# project\GitHub\OOP-csharp\OOP3\bin\Debug\netcoreapp3.1\OOP3.pdb
+G:\Project\c# project\GitHub\OOP-csharp\OOP3\obj\Debug\netcoreapp3.1\OOP3.csprojAssemblyReference.cache
+G:\Project\c# project\GitHub\OOP-csharp\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfoInputs.cache
+G:\Project\c# project\GitHub\OOP-csharp\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfo.cs
+G:\Project\c# project\GitHub\OOP-csharp\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.CoreCompileInputs.cache
+G:\Project\c# project\GitHub\OOP-csharp\OOP3\obj\Debug\netcoreapp3.1\OOP3.dll
+G:\Project\c# project\GitHub\OOP-csharp\OOP3\obj\Debug\netcoreapp3.1\OOP3.pdb
+G:\Project\c# project\GitHub\OOP-csharp\OOP3\obj\Debug\netcoreapp3.1\OOP3.genruntimeconfig.cache
