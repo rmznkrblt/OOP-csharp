@@ -6,11 +6,11 @@ namespace GenericsIntro
 {
     class MyList<T>
     {
-        T[] items;
+        T[] items; //Generic yapılar arka planda bir dizi barındırırlar. Eğer biz bir generik yapı oluşturuyorsak arka planda oluşturacağı bir dizi tanımlamamız gerekiyor. Bu dizi de onun için tanımlandı.
         //constructor
         public MyList()
         {
-            items = new T[0];
+            items = new T[0]; //Bunu yapmak zorundayız ki new lendiğinde sıfır elemanlı olarak oluştursun. Yoksa NullReferanceException hatası alırız.
         }
         public void Add(T item)
         {
