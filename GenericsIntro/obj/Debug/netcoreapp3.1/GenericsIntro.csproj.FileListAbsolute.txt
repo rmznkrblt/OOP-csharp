@@ -1,0 +1,13 @@
+G:\Project\c# project\GitHub\OOP-csharp\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+G:\Project\c# project\GitHub\OOP-csharp\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+G:\Project\c# project\GitHub\OOP-csharp\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+G:\Project\c# project\GitHub\OOP-csharp\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+G:\Project\c# project\GitHub\OOP-csharp\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+G:\Project\c# project\GitHub\OOP-csharp\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+G:\Project\c# project\GitHub\OOP-csharp\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csprojAssemblyReference.cache
+G:\Project\c# project\GitHub\OOP-csharp\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+G:\Project\c# project\GitHub\OOP-csharp\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+G:\Project\c# project\GitHub\OOP-csharp\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+G:\Project\c# project\GitHub\OOP-csharp\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+G:\Project\c# project\GitHub\OOP-csharp\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+G:\Project\c# project\GitHub\OOP-csharp\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache
